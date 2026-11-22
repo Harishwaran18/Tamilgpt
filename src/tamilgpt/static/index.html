@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="ta">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0f4c4c">
+  <meta name="description" content="TamilGPT 2.0 — தமிழ்நாட்டு மக்களுக்கான தமிழ் முதன்மை AI வழிகாட்டி. திட்டங்கள், வேலை, கடன், உடல்நலம், சட்ட உதவி.">
+  <title>TamilGPT 2.0 — தமிழ் வாழ்க்கை வழிகாட்டி</title>
+  <link rel="icon" href="/static/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <svg class="sprite" aria-hidden="true" focusable="false">
+    <symbol id="i-chat" viewBox="0 0 24 24"><path d="M21 12a8 8 0 0 1-8 8H6l-3 3V12a8 8 0 0 1 8-8h2a8 8 0 0 1 8 8Z"/></symbol>
+    <symbol id="i-schemes" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="4"/><circle cx="12" cy="12" r="1"/></symbol>
+    <symbol id="i-careers" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="m15.5 8.5-2 5-5 2 2-5 5-2Z"/></symbol>
+    <symbol id="i-finance" viewBox="0 0 24 24"><rect x="3" y="6" width="18" height="13" rx="2"/><path d="M3 10h18"/><path d="M16 14h2"/></symbol>
+    <symbol id="i-health" viewBox="0 0 24 24"><path d="M20.8 5.6a5 5 0 0 0-7.1 0L12 7.3l-1.7-1.7a5 5 0 0 0-7.1 7.1L12 21l8.8-8.3a5 5 0 0 0 0-7.1Z"/><path d="M4 12h4l2-3 3 6 2-3h5"/></symbol>
+    <symbol id="i-emergency" viewBox="0 0 24 24"><path d="M12 3 2 21h20L12 3Z"/><path d="M12 9v5"/><path d="M12 17h.01"/></symbol>
+    <symbol id="i-mic" viewBox="0 0 24 24"><rect x="9" y="3" width="6" height="11" rx="3"/><path d="M5 11a7 7 0 0 0 14 0"/><path d="M12 18v3"/></symbol>
+    <symbol id="i-copy" viewBox="0 0 24 24"><rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15V5a2 2 0 0 1 2-2h10"/></symbol>
+    <symbol id="i-up" viewBox="0 0 24 24"><path d="M7 10v10H4V10h3Z"/><path d="M7 10l4-7a2 2 0 0 1 2 2v3h5a2 2 0 0 1 2 2l-2 8H7"/></symbol>
+    <symbol id="i-down" viewBox="0 0 24 24"><path d="M17 14V4h3v10h-3Z"/><path d="M17 14l-4 7a2 2 0 0 1-2-2v-3H6a2 2 0 0 1-2-2l2-8h11"/></symbol>
+  </svg>
+
+  <div class="app">
+    <aside class="sidebar" id="sidebar" aria-label="Main navigation">
+      <div class="brand">
+        <div class="brand-mark" aria-hidden="true">த</div>
+        <div>
+          <div class="brand-name">TamilGPT 2.0</div>
+          <div class="brand-tag" data-i18n="brandTagline">தமிழ்நாட்டுக்கான வழிகாட்டி</div>
+        </div>
+      </div>
+
+      <div class="lang-switch" role="group" aria-label="Language">
+        <button class="lang-btn" type="button" data-lang="ta" aria-pressed="true">தமிழ்</button>
+        <button class="lang-btn" type="button" data-lang="tanglish" aria-pressed="false">Tanglish</button>
+        <button class="lang-btn" type="button" data-lang="en" aria-pressed="false">English</button>
+      </div>
+
+      <div>
+        <p class="nav-label" data-i18n="navLabel">சேவைகள்</p>
+        <nav class="nav">
+          <button class="nav-item" type="button" data-action="chat"><span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24"><use href="#i-chat"/></svg></span><span data-i18n="navChat">பேச்சு</span></button>
+          <button class="nav-item" type="button" data-action="schemes"><span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24"><use href="#i-schemes"/></svg></span><span data-i18n="navSchemes">அரசு திட்டங்கள்</span></button>
+          <button class="nav-item" type="button" data-action="careers"><span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24"><use href="#i-careers"/></svg></span><span data-i18n="navCareers">வேலை &amp; தொழில்</span></button>
+          <button class="nav-item" type="button" data-action="finance"><span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24"><use href="#i-finance"/></svg></span><span data-i18n="navFinance">கடன் &amp; நிதி</span></button>
+          <button class="nav-item" type="button" data-action="health"><span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24"><use href="#i-health"/></svg></span><span data-i18n="navHealth">உடல்நலம்</span></button>
+          <button class="nav-item alert" type="button" data-action="emergency"><span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24"><use href="#i-emergency"/></svg></span><span data-i18n="navEmergency">அவசர உதவி</span></button>
+        </nav>
+      </div>
+
+      <div class="sidebar-foot">
+        <div class="side-stat"><span data-i18n="sideDocs">அறிவுத் தளம்</span><strong id="side-docs">—</strong></div>
+        <div class="side-stat"><span data-i18n="sideSchemes">திட்டங்கள்</span><strong id="side-schemes">—</strong></div>
+        <p class="side-note" data-i18n="sideNote">அனைத்து பதில்களும் ஆதாரங்களுடன். இது அரசு ஆலோசனை அல்ல.</p>
+      </div>
+    </aside>
+
+    <main class="main" id="main">
+      <div class="topbar">
+        <button class="icon-btn mobile-only" id="menu-btn" type="button" aria-label="Open menu" aria-controls="sidebar" aria-expanded="false">☰</button>
+        <div class="topbar-status" role="status">
+          <span class="status-dot" id="status-dot"></span>
+          <span id="status-text">இணைக்கப்பட்டது</span>
+        </div>
+        <button class="icon-btn mobile-only" id="profile-btn" type="button" aria-label="Open profile" aria-controls="rail" aria-expanded="false">⚙</button>
+      </div>
+
+      <section class="hero" aria-labelledby="hero-title">
+        <p class="eyebrow" data-i18n="heroEyebrow">தமிழ் முதன்மை AI</p>
+        <h1 id="hero-title" data-i18n="heroTitle">உங்கள் வாழ்க்கைக்கு தேவையான வழிகாட்டி, தமிழில்.</h1>
+        <p data-i18n="heroSubtitle">அரசு திட்டங்கள், வேலை, கடன், உடல்நலம், சட்ட உதவி, விவசாயம் — ஒரே இடத்தில், ஆதாரங்களுடன், உங்கள் மொழியில்.</p>
+        <div class="hero-chips">
+          <span class="trust-chip"><span aria-hidden="true">✓</span> <span data-i18n="chipFree">இலவசம்</span></span>
+          <span class="trust-chip"><span aria-hidden="true">✓</span> <span data-i18n="chipSources">ஆதாரங்களுடன்</span></span>
+          <span class="trust-chip"><span aria-hidden="true">✓</span> <span data-i18n="chipLanguages">தமிழ் · Tanglish · English</span></span>
+        </div>
+        <div class="hero-stats" aria-label="Knowledge base">
+          <div class="hero-stat"><strong id="stat-schemes">23</strong><span data-i18n="statSchemes">அரசு திட்டங்கள்</span></div>
+          <div class="hero-stat"><strong id="stat-careers">16</strong><span data-i18n="statCareers">தொழில் வழிகள்</span></div>
+          <div class="hero-stat"><strong id="stat-helplines">16</strong><span data-i18n="statHelplines">உதவி எண்கள்</span></div>
+          <div class="hero-stat"><strong id="stat-sectors">10</strong><span data-i18n="statSectors">துறைகள்</span></div>
+        </div>
+      </section>
+
+      <section class="chat-shell" aria-label="Chat">
+        <div class="chat-log" id="chat-log" role="log" aria-live="polite" aria-relevant="additions"></div>
+
+        <div class="quick-wrap">
+          <p class="quick-label" data-i18n="quickLabel">விரைவு கேள்விகள்</p>
+          <div class="quick-prompts" id="quick-prompts"></div>
+        </div>
+
+        <form class="composer" id="composer" autocomplete="off">
+          <label class="visually-hidden" for="message-input" data-i18n="composerLabel">உங்கள் கேள்வி</label>
+          <textarea id="message-input" name="message" rows="1" maxlength="2000" placeholder="உங்கள் கேள்வியை எழுதுங்கள்…" required></textarea>
+          <div class="composer-bar">
+            <span class="composer-hint" data-i18n="composerHint">Enter அனுப்ப · Shift+Enter புதிய வரி</span>
+            <span class="char-count" id="char-count">0 / 2000</span>
+            <button class="round-btn" id="mic-btn" type="button" aria-label="Voice input" title="Voice input"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-mic"/></svg></button>
+            <button class="send-btn" id="send-btn" type="submit"><span data-i18n="send">அனுப்பு</span> <span aria-hidden="true">→</span></button>
+          </div>
+        </form>
+      </section>
+
+      <div class="main-foot">
+        <span data-i18n="footerNote">TamilGPT 2.0 · தமிழ்நாட்டுக்காக உருவாக்கப்பட்டது</span>
+        <button class="icon-btn" id="new-chat" type="button" title="New chat" aria-label="New chat">↺</button>
+      </div>
+    </main>
+
+    <aside class="rail" id="rail" aria-label="Profile and emergency help">
+      <section class="card">
+        <h2 data-i18n="profileTitle">உங்கள் சுயவிவரம்</h2>
+        <p class="card-sub" data-i18n="profileHint">துல்லியமான பதில்களுக்கு. இது உங்கள் சாதனத்தில் மட்டுமே சேமிக்கப்படும்.</p>
+        <form id="profile-form">
+          <div class="profile-grid">
+            <div class="field">
+              <label for="age" data-i18n="age">வயது</label>
+              <input id="age" name="age" type="number" min="0" max="120" inputmode="numeric" placeholder="35">
+            </div>
+            <div class="field">
+              <label for="gender" data-i18n="gender">பாலினம்</label>
+              <select id="gender" name="gender">
+                <option value="" data-i18n="select">தேர்வு</option>
+                <option value="female" data-i18n="female">பெண்</option>
+                <option value="male" data-i18n="male">ஆண்</option>
+                <option value="other" data-i18n="other">மற்றவர்</option>
+              </select>
+            </div>
+            <div class="field wide">
+              <label for="monthly_income" data-i18n="income">மாத வருமானம் (₹)</label>
+              <input id="monthly_income" name="monthly_income" type="number" min="0" step="500" inputmode="numeric" placeholder="18000">
+            </div>
+            <div class="field wide">
+              <label for="occupation" data-i18n="occupation">தொழில்</label>
+              <input id="occupation" name="occupation" type="text" maxlength="80" placeholder="tailor / farmer / student">
+            </div>
+            <div class="field wide">
+              <label for="district" data-i18n="district">மாவட்டம்</label>
+              <input id="district" name="district" type="text" maxlength="80" placeholder="Coimbatore">
+            </div>
+            <div class="field">
+              <label for="education" data-i18n="education">கல்வி</label>
+              <input id="education" name="education" type="text" maxlength="80" placeholder="Degree">
+            </div>
+            <div class="field">
+              <label for="family_size" data-i18n="family">குடும்ப அளவு</label>
+              <input id="family_size" name="family_size" type="number" min="0" max="50" inputmode="numeric" placeholder="4">
+            </div>
+          </div>
+          <div class="form-actions">
+            <button class="btn btn-primary" type="submit" data-i18n="save">சேமி</button>
+            <button class="btn btn-ghost" type="button" id="clear-profile" data-i18n="clear">அழி</button>
+          </div>
+          <p class="save-note" id="save-note" role="status"></p>
+        </form>
+      </section>
+
+      <section class="card emergency">
+        <h2 data-i18n="emergencyTitle">அவசர உதவி</h2>
+        <p class="card-sub" data-i18n="emergencyHint">உயிருக்கு ஆபத்து என்றால் உடனே அழையுங்கள்.</p>
+        <div class="helpline-list" id="helpline-list"></div>
+      </section>
+
+      <section class="card">
+        <h2 data-i18n="howTitle">எப்படி வேலை செய்கிறது?</h2>
+        <ol class="steps">
+          <li><span class="n">1</span><span data-i18n="howStep1">உங்கள் கேள்வி தமிழ், Tanglish அல்லது English-ல் புரிந்துகொள்ளப்படும்.</span></li>
+          <li><span class="n">2</span><span data-i18n="howStep2">சரிபார்க்கப்பட்ட அறிவுத் தளத்தில் இருந்து தகவல் தேடப்படும்.</span></li>
+          <li><span class="n">3</span><span data-i18n="howStep3">தகுதி, ஆவணங்கள், மூலங்கள் ஆகியவற்றுடன் தெளிவான பதில் கிடைக்கும்.</span></li>
+        </ol>
+        <p class="source-note" data-i18n="sourceNote">மூலங்கள்: தமிழ்நாடு அரசு, மத்திய அரசு, e-Sevai மற்றும் அதிகாரப்பூர்வ இணையதளங்கள்.</p>
+      </section>
+    </aside>
+  </div>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <div class="modal-backdrop" id="api-modal" role="dialog" aria-modal="true" aria-labelledby="api-title">
+    <div class="modal">
+      <h2 id="api-title" data-i18n="apiTitle">API key தேவை</h2>
+      <p data-i18n="apiHint">இந்த சர்வர் பாதுகாக்கப்பட்டுள்ளது. உங்கள் API key-ஐ உள்ளிடுங்கள். இது இந்த தாவலில் மட்டுமே சேமிக்கப்படும்.</p>
+      <input id="api-key-input" type="password" autocomplete="off" spellcheck="false" placeholder="sk-…">
+      <div class="modal-actions">
+        <button class="btn btn-ghost" type="button" id="api-key-close" data-i18n="close">மூடு</button>
+        <button class="btn btn-primary" type="button" id="api-key-save" data-i18n="save">சேமி</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="/static/app.js" defer></script>
+</body>
+</html>

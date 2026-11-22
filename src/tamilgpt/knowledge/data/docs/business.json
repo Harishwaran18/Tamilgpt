@@ -1,0 +1,62 @@
+[
+  {
+    "id": "biz-startup-checklist",
+    "sector": "business",
+    "title_ta": "சிறு தொழில் தொடங்கும் முன் சரிபார்க்க வேண்டியவை",
+    "title_en": "Checklist before starting a small business",
+    "body_ta": "முதலில் உங்கள் யோசனைக்கு உள்ளூர் தேவை இருக்கிறதா என்பதைச் சரிபாருங்கள். போட்டியாளர்கள், விலை, வாடிக்கையாளர் எண்ணிக்கை மற்றும் மாதச் செலவைக் கணக்கிடுங்கள். தேவையான உரிமம் (உணவு, மருந்து, போக்குவரத்து) மற்றும் Udyam பதிவை முடியுங்கள். வங்கிக் கணக்கு தனியாகத் தொடங்கி, வரவு-செலவைப் பதிவு செய்யுங்கள். தொடக்கத்தில் கடன் வாங்குவதைக் குறைத்து, சொந்த மூலதனத்துடன் சிறிய அளவில் தொடங்குங்கள்.",
+    "body_en": "First check whether local demand exists for your idea. Estimate competitors, pricing, customer volume and monthly costs. Complete any licence you need (food, pharmacy, transport) and Udyam registration. Open a separate business bank account and record every sale and expense. Start small with your own capital and avoid heavy borrowing in the first year.",
+    "tags": ["தொழில்", "business", "startup", "உரிமம்", "licence", "Udyam", "கடை", "shop", "plan"],
+    "source_name": "MSME Udyam",
+    "source_url": "https://udyamregistration.gov.in/",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "biz-mudra-loan",
+    "sector": "business",
+    "title_ta": "முத்ரா கடன் (Mudra Loan)",
+    "title_en": "Mudra loans for small businesses",
+    "body_ta": "முத்ரா கடன் சிறு மற்றும் குறு தொழில்களுக்கு ₹10 லட்சம் வரை கிடைக்கிறது. ஷிஷு (₹50,000 வரை), கிஷோர் (₹50,001–₹5 லட்சம்), தருண் (₹5–10 லட்சம்) என மூன்று நிலைகள் உள்ளன. வங்கி அல்லது அங்கீகரிக்கப்பட்ட நிதி நிறுவனத்தில் வணிகத் திட்டம், அடையாள ஆதாரம், முகவரி ஆதாரம் மற்றும் வங்கி அறிக்கையுடன் விண்ணப்பிக்கலாம். கடனைத் திருப்பிச் செலுத்தும் திறனை முன்கூட்டியே கணக்கிடுங்கள்.",
+    "body_en": "Mudra loans support micro and small enterprises with up to ₹10 lakh. The three tiers are Shishu (up to ₹50,000), Kishore (₹50,001–₹5 lakh) and Tarun (₹5–10 lakh). Apply at a bank or approved financial institution with a business plan, identity proof, address proof and bank statement. Work out repayment capacity before borrowing.",
+    "tags": ["முத்ரா", "Mudra", "கடன்", "loan", "MSME", "தொழில்", "business loan", "Shishu", "Kishore", "Tarun"],
+    "source_name": "Mudra Yojana",
+    "source_url": "https://www.mudra.org.in/",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "biz-udyam-registration",
+    "sector": "business",
+    "title_ta": "உத்யம் (Udyam) பதிவு",
+    "title_en": "Udyam registration for MSMEs",
+    "body_ta": "உத்யம் பதிவு MSME-க்களுக்கான அரசு அங்கீகாரம்; இது இலவசம். ஆதார் எண், வங்கிக் கணக்கு மற்றும் தொழில் விவரங்களைக் கொடுத்து udyamregistration.gov.in இல் ஆன்லைனில் பதிவு செய்யலாம். பதிவு செய்தால் மானியம், கடன், சந்தைப்படுத்தல் உதவி மற்றும் அரசு கொள்முதல் வாய்ப்புகளுக்கு விண்ணப்பிக்க எளிதாகும். பதிவு எண்ணை வணிக ஆவணங்களில் பயன்படுத்துங்கள்.",
+    "body_en": "Udyam registration is the official MSME recognition and it is free. Register online at udyamregistration.gov.in with your Aadhaar, bank details and business information. Registration makes it easier to apply for subsidies, credit, marketing support and government tenders. Quote the Udyam number on business documents and applications.",
+    "tags": ["உத்யம்", "Udyam", "MSME", "பதிவு", "registration", "subsidy", "தொழில்"],
+    "source_name": "Ministry of MSME",
+    "source_url": "https://udyamregistration.gov.in/",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "biz-gst-basics",
+    "sector": "business",
+    "title_ta": "சிறு தொழிலுக்கான GST அடிப்படை",
+    "title_en": "GST basics for small businesses",
+    "body_ta": "பொருள் விற்பனையில் ஆண்டு வருவாய் ₹40 லட்சத்தையும், சேவையில் ₹20 லட்சத்தையும் தாண்டினால் GST பதிவு பொதுவாகத் தேவை (சிறப்பு வகை மாநிலங்களுக்கு வரம்பு வேறுபடும்). சிறு வணிகர்கள் கூட்டு வரி திட்டத்தை (Composition Scheme) தேர்வு செய்யலாம். பில், வாங்குதல் மற்றும் விற்பனை ஆவணங்களைச் சேமியுங்கள். வரி விதிகள் மாறும் என்பதால் பதிவு செய்யும் முன் GST போர்ட்டல் அல்லது வரிக் கணக்காளரிடம் உறுதிப்படுத்துங்கள்.",
+    "body_en": "GST registration is generally required once annual turnover crosses ₹40 lakh for goods or ₹20 lakh for services (limits differ in special-category states). Small businesses may opt for the composition scheme. Keep invoices and purchase and sales records. Rules change, so confirm the current thresholds on the GST portal or with a tax practitioner before registering.",
+    "tags": ["GST", "வரி", "tax", "business", "தொழில்", "composition", "invoice", "பில்"],
+    "source_name": "GST Portal",
+    "source_url": "https://www.gst.gov.in/",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "biz-standup-india",
+    "sector": "business",
+    "title_ta": "ஸ்டாண்ட் அப் இந்தியா திட்டம்",
+    "title_en": "Stand Up India scheme",
+    "body_ta": "ஸ்டாண்ட் அப் இந்தியா திட்டம் SC/ST மற்றும் பெண் தொழில்முனைவோருக்கு ஒரு நிறுவனத்திற்கு ₹10 லட்சம் முதல் ₹1 கோடி வரை கடன் வழங்குகிறது. உற்பத்தி, சேவை அல்லது வணிகத் துறையில் புதிய நிறுவனம் தொடங்கலாம். வங்கிக் கிளையில் வணிகத் திட்டத்துடன் விண்ணப்பிக்க வேண்டும். கடன் தொகையில் ஒரு பங்கு உங்கள் சொந்த முதலீடாக இருக்க வேண்டும்.",
+    "body_en": "Stand Up India provides loans from ₹10 lakh to ₹1 crore per borrower to SC/ST and women entrepreneurs. It supports new enterprises in manufacturing, services or trading. Apply at a bank branch with a business plan; a share of the project cost must come from your own contribution. Repayment terms vary by bank.",
+    "tags": ["ஸ்டாண்ட் அப் இந்தியா", "Stand Up India", "கடன்", "loan", "பெண் தொழில்முனைவோர்", "SC", "ST", "business"],
+    "source_name": "Stand Up India",
+    "source_url": "https://www.standupmitra.in/",
+    "updated": "2024-06-01"
+  }
+]

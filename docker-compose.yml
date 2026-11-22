@@ -1,0 +1,19 @@
+services:
+  tamilgpt:
+    build: .
+    image: tamilgpt:2.0.0
+    ports:
+      - "8000:8000"
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      TAMILGPT_ENV: production
+    restart: unless-stopped
+    read_only: true
+    tmpfs:
+      - /tmp
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "fin-budget-50-30-20",
+    "sector": "finance",
+    "title_ta": "மாத பட்ஜெட்: 50–30–20 விதி",
+    "title_en": "Monthly budgeting: the 50–30–20 rule",
+    "body_ta": "மாத வருமானத்தில் 50% அவசியச் செலவுகளுக்கு (வீடு, உணவு, போக்குவரத்து, மருத்துவம்), 30% விருப்பச் செலவுகளுக்கு, 20% சேமிப்பு மற்றும் கடன் திருப்பிச் செலுத்தலுக்கு ஒதுக்கலாம். இது ஒரு வழிகாட்டல்; வருமானம் குறைவாக இருந்தால் சதவீதத்தை உங்கள் நிலைக்கு ஏற்ப மாற்றுங்கள். ஒவ்வொரு மாதமும் செலவைப் பதிவு செய்தால் எங்கு பணம் செல்கிறது என்பது தெரியும். முதலில் சிறிய அவசர நிதியை உருவாக்குங்கள்.",
+    "body_en": "Allocate about 50% of monthly income to essentials (housing, food, transport, health), 30% to discretionary spending and 20% to savings and debt repayment. This is a guide, not a rule; adjust the percentages to your situation. Track expenses every month to see where money goes, and build a small emergency fund first.",
+    "tags": ["பட்ஜெட்", "budget", "சேமிப்பு", "savings", "50-30-20", "பணம்", "money", "finance"],
+    "source_name": "SEBI Investor Education",
+    "source_url": "https://investor.sebi.gov.in/",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "fin-emergency-fund",
+    "sector": "finance",
+    "title_ta": "அவசர நிதி எவ்வளவு வேண்டும்?",
+    "title_en": "How large should an emergency fund be?",
+    "body_ta": "வேலை இழப்பு, மருத்துவச் செலவு அல்லது எதிர்பாராத பழுது போன்ற நிலைகளுக்கு 3 முதல் 6 மாத அவசியச் செலவுக்குச் சமமான தொகையை அவசர நிதியாக வைத்திருப்பது பாதுகாப்பானது. இதை எளிதில் எடுக்கக்கூடிய சேமிப்புக் கணக்கு அல்லது நிலையான வைப்பில் வையுங்கள். இந்த நிதியை சொகுசு செலவுக்கோ அதிக ஆபத்துள்ள முதலீட்டுக்கோ பயன்படுத்த வேண்டாம். மாதம் சிறிது சிறிதாகச் சேர்த்தால் போதும்.",
+    "body_en": "Keep three to six months of essential expenses as an emergency fund for job loss, medical costs or unexpected repairs. Hold it in an easily accessible savings account or fixed deposit. Do not use this money for luxuries or high-risk investments. Build it gradually with a fixed monthly contribution.",
+    "tags": ["அவசர நிதி", "emergency fund", "சேமிப்பு", "savings", "fixed deposit", "finance", "பணம்"],
+    "source_name": "SEBI Investor Education",
+    "source_url": "https://investor.sebi.gov.in/",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "fin-debt-repayment",
+    "sector": "finance",
+    "title_ta": "கடனை விரைவாக அடைப்பது எப்படி?",
+    "title_en": "Repaying debt faster",
+    "body_ta": "உங்கள் கடன்களை வட்டி விகிதத்தின்படி பட்டியலிடுங்கள். மொத்த கடன் திருப்பிச் செலுத்தலில் (EMI) கூடுதலாகக் கிடைக்கும் தொகையை அதிக வட்டி உள்ள கடனுக்கு முதலில் செலுத்துங்கள்; இதுவே 'அவலாஞ்ச்' முறை. அல்லது சிறிய கடனை முதலில் முழுமையாக அடைத்து உற்சாகம் பெறும் 'ஸ்னோபால்' முறையைப் பின்பற்றலாம். புதிய ஆடம்பரக் கடன்களைத் தவிர்க்கவும். மறுநிதியூட்டல் (balance transfer) செய்யும் முன் கட்டணங்களை ஒப்பிடுங்கள்.",
+    "body_en": "List every debt with its interest rate. Put any extra money towards the highest-interest debt first — the avalanche method. Alternatively, clear the smallest debt first for motivation — the snowball method. Avoid new discretionary borrowing. If you consider a balance transfer, compare all fees and the new rate carefully.",
+    "tags": ["கடன்", "debt", "EMI", "வட்டி", "interest", "repayment", "avalanche", "snowball", "finance"],
+    "source_name": "SEBI Investor Education",
+    "source_url": "https://investor.sebi.gov.in/",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "fin-emi-basics",
+    "sector": "finance",
+    "title_ta": "EMI மற்றும் வட்டி எப்படி கணக்கிடப்படுகிறது?",
+    "title_en": "How EMI and interest are calculated",
+    "body_ta": "EMI என்பது ஒவ்வொரு மாதமும் செலுத்தும் சமமான தவணை. இதில் வட்டி மற்றும் அசல் இரண்டும் அடங்கும். தொடக்கத்தில் வட்டி பங்கு அதிகமாகவும், பின்னர் அசல் பங்கு அதிகமாகவும் இருக்கும். கடன் தொகை அதிகமாகவோ, காலம் நீளமாகவோ, வட்டி விகிதம் அதிகமாகவோ இருந்தால் EMI அதிகரிக்கும். காலத்தை நீட்டினால் மாதத் தவணை குறையும், ஆனால் மொத்த வட்டி அதிகரிக்கும். கடன் வாங்கும் முன் மொத்த செலவை ஒப்பிடுங்கள்.",
+    "body_en": "An EMI is the equal monthly instalment covering both interest and principal. Early instalments are interest-heavy and later ones repay more principal. A larger loan, longer tenure or higher rate increases the EMI. Stretching the tenure lowers the monthly payment but raises the total interest. Compare the total cost of credit, not just the EMI.",
+    "tags": ["EMI", "வட்டி", "interest", "loan", "கடன்", "தவணை", "instalment", "calculator", "finance"],
+    "source_name": "Reserve Bank of India",
+    "source_url": "https://www.rbi.org.in/",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "fin-fraud-prevention",
+    "sector": "finance",
+    "title_ta": "நிதி மோசடியிலிருந்து தப்பிப்பது எப்படி?",
+    "title_en": "How to avoid financial fraud",
+    "body_ta": "OTP, ATM PIN, CVV அல்லது வங்கி கடவுச்சொல்லை யாருக்கும் சொல்ல வேண்டாம்; வங்கி ஊழியர் என்று அழைத்தாலும் சொல்ல வேண்டாம். 'கடன் உடனடியாகக் கிடைக்கும்', 'லாட்டரி வென்றீர்கள்' என்று கேட்கும் அழைப்புகளில் ஆதார் அல்லது கணக்கு விவரங்களைப் பகிர வேண்டாம். சந்தேகத்திற்குரிய இணைப்புகளில் கிளிக் செய்ய வேண்டாம். ஏமாற்றப்பட்டால் உடனடியாக வங்கியை அழைத்து அட்டையை முடக்கி, 1930 என்ற தேசிய சைபர் மோசடி எண்ணில் புகார் அளியுங்கள்.",
+    "body_en": "Never share an OTP, ATM PIN, CVV or banking password with anyone, even someone claiming to be a bank official. Treat calls promising instant loans or lottery winnings as suspicious, and do not share Aadhaar or account details. Avoid clicking unknown links. If you are defrauded, call your bank immediately to block the card and report to the national cyber-fraud helpline 1930.",
+    "tags": ["மோசடி", "fraud", "scam", "OTP", "1930", "cyber fraud", "பாதுகாப்பு", "bank"],
+    "source_name": "Cyber Crime Portal",
+    "source_url": "https://cybercrime.gov.in/",
+    "updated": "2024-06-01"
+  }
+]

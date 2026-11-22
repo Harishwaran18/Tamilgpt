@@ -1,0 +1,62 @@
+[
+  {
+    "id": "women-urimai-thogai",
+    "sector": "women_elderly",
+    "title_ta": "கலைஞர் மகளிர் உரிமைத் தொகை",
+    "title_en": "Kalaignar Magalir Urimai Thogai",
+    "body_ta": "தமிழ்நாட்டில் குடும்பத்தின் தலைவியாக உள்ள பெண்களுக்கு மாதம் ₹1,000 உரிமைத் தொகை வழங்கப்படுகிறது. குடும்ப ஆண்டு வருமானம் ₹2.5 லட்சத்திற்கு குறைவாக இருக்க வேண்டும்; வருமான வரி செலுத்துபவர், அரசு ஊழியர் மற்றும் சில வரம்புகளுக்கு மேல் நிலம்/மின்சாரம் பயன்படுத்துபவர் தகுதி பெறமாட்டார்கள். விண்ணப்பம் முகாம்கள் மற்றும் e-Sevai மூலம் பெறப்பட்டது. தகுதி மற்றும் நிலை குறித்து அருகிலுள்ள வட்டாட்சியர் அலுவலகத்தில் உறுதிப்படுத்துங்கள்.",
+    "body_en": "Tamil Nadu pays ₹1,000 a month to women who head a household. The family's annual income must be below ₹2.5 lakh, and income-tax payers, government employees and households above the land and electricity limits are excluded. Applications were collected through special camps and e-Sevai. Confirm your eligibility and payment status at the local taluk office.",
+    "tags": ["மகளிர் உரிமைத் தொகை", "Kalaignar Magalir Urimai Thogai", "பெண்கள்", "women", "₹1000", "welfare", "மகளிர்"],
+    "source_name": "Tamil Nadu e-Sevai",
+    "source_url": "https://www.tnesevai.tn.gov.in/",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "women-pudhumai-pen",
+    "sector": "women_elderly",
+    "title_ta": "புதுமைப் பெண் திட்டம்",
+    "title_en": "Pudhumai Pen scheme",
+    "body_ta": "அரசுப் பள்ளிகளில் 6 முதல் 12ஆம் வகுப்பு வரை படிக்கும் மாணவிகளுக்கு மாதம் ₹1,000 உதவித்தொகை வழங்கும் திட்டம் புதுமைப் பெண் ஆகும். இது பள்ளிக் கட்டணம், பயணம் மற்றும் பாடப் பொருட்களுக்கு உதவும். மாணவியின் ஆதார், வங்கிக் கணக்கு மற்றும் பள்ளி விவரங்கள் தேவை. திட்டத்தின் தற்போதைய நிலை மற்றும் விண்ணப்ப முறையைப் பள்ளி தலைமை ஆசிரியரிடம் கேட்டு உறுதிப்படுத்துங்கள்.",
+    "body_en": "Pudhumai Pen provides ₹1,000 a month to girls studying in government schools from classes 6 to 12. It helps with school expenses, travel and study materials. You need the student's Aadhaar, a bank account and school details. Ask the school head teacher to confirm the scheme's current status and application process.",
+    "tags": ["புதுமைப் பெண்", "Pudhumai Pen", "மாணவி", "girl student", "₹1000", "school", "scholarship", "women"],
+    "source_name": "Tamil Nadu School Education Department",
+    "source_url": "https://www.tnschools.gov.in/",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "elderly-pension",
+    "sector": "women_elderly",
+    "title_ta": "முதியோர் ஓய்வூதியம்",
+    "title_en": "Old age pension",
+    "body_ta": "60 வயது மற்றும் அதற்கு மேற்பட்ட ஏழை முதியோருக்கு மத்திய அரசின் இந்திரா காந்தி தேசிய முதியோர் ஓய்வூதியத் திட்டம் (IGNOAPS) மற்றும் தமிழ்நாடு அரசின் கூடுதல் தொகை வழங்கப்படுகிறது. வருமான வரம்பு மற்றும் குடும்ப நிலை ஆய்வு செய்யப்படும். விண்ணப்பத்தை வட்டாட்சியர் அலுவலகம் அல்லது e-Sevai மையத்தில் கொடுக்கலாம். வங்கிக் கணக்கு, ஆதார், வயது மற்றும் வருமான ஆதாரம் தேவை. தற்போதைய தொகையை அலுவலகத்தில் உறுதிப்படுத்துங்கள்.",
+    "body_en": "Poor citizens aged 60 and above can receive the central Indira Gandhi National Old Age Pension plus a Tamil Nadu top-up. A means test and household verification apply. Apply at the taluk office or an e-Sevai centre with a bank account, Aadhaar, age proof and income proof. Confirm the current pension amount at the office.",
+    "tags": ["முதியோர் ஓய்வூதியம்", "old age pension", "IGNOAPS", "pension", "முதியவர்", "senior citizen", "60 வயது"],
+    "source_name": "Tamil Nadu e-Sevai",
+    "source_url": "https://www.tnesevai.tn.gov.in/",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "women-widow-pension",
+    "sector": "women_elderly",
+    "title_ta": "விதவை ஓய்வூதியம்",
+    "title_en": "Widow pension",
+    "body_ta": "விதவை நிலையில் உள்ள ஏழைப் பெண்களுக்கு மத்திய மற்றும் மாநில அரசு ஓய்வூதியத் திட்டங்கள் உள்ளன. வயது, வருமானம் மற்றும் குடும்ப நிலை ஆகியவை தகுதிக்கான அளவுகோல்கள். இறப்புச் சான்றிதழ், ஆதார், வங்கிக் கணக்கு மற்றும் வருமானச் சான்று தேவை. வட்டாட்சியர் அலுவலகம் அல்லது e-Sevai மையத்தில் விண்ணப்பிக்கலாம். தகுதி மற்றும் தொகை விவரங்களை அங்கு உறுதிப்படுத்துங்கள்.",
+    "body_en": "Widows living in poverty may qualify for central and state pension schemes. Age, income and household status are the main eligibility tests. You will need a death certificate, Aadhaar, a bank account and income proof. Apply at the taluk office or an e-Sevai centre, and confirm the current eligibility rules and amount there.",
+    "tags": ["விதவை", "widow pension", "ஓய்வூதியம்", "pension", "பெண்கள்", "women", "welfare"],
+    "source_name": "Tamil Nadu e-Sevai",
+    "source_url": "https://www.tnesevai.tn.gov.in/",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "women-safety-helpline",
+    "sector": "women_elderly",
+    "title_ta": "பெண்கள் பாதுகாப்பு உதவி எண்கள்",
+    "title_en": "Women's safety helplines",
+    "body_ta": "பெண்கள் மற்றும் குழந்தைகளுக்கு எதிரான வன்முறைக்கு உடனடி உதவி தேவைப்பட்டால் 181 (பெண்கள் உதவி எண்), 1098 (குழந்தை உதவி எண்) அல்லது 112 (அவசர எண்) என்று அழையுங்கள். அரசு ஒரு மாவட்டத்திற்கு ஒரு மகளிர் பாதுகாப்பு அலுவலகம் மற்றும் சேவை மையங்களை இயக்குகிறது. புகாரை எழுத்துப்பூர்வமாகப் பதிவு செய்யுங்கள்; தேவைப்பட்டால் இலவச சட்ட உதவியும் பெறலாம். அவசர நேரத்தில் தனியாக இருக்க வேண்டாம், நம்பகமான நபரை அழையுங்கள்.",
+    "body_en": "For immediate help with violence against women or children, call 181 (women's helpline), 1098 (child helpline) or 112 (emergency). The government runs women's protection offices and service centres in each district. Record your complaint in writing and ask about free legal aid if needed. In an emergency, stay with a trusted person and call for help.",
+    "tags": ["பெண்கள் பாதுகாப்பு", "181", "1098", "112", "women safety", "helpline", "violence", "புகார்"],
+    "source_name": "Tamil Nadu Women's Helpline",
+    "source_url": "https://www.tn.gov.in/department/18",
+    "updated": "2024-06-01"
+  }
+]

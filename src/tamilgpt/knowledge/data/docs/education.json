@@ -1,0 +1,62 @@
+[
+  {
+    "id": "edu-after-10th",
+    "sector": "education",
+    "title_ta": "10ஆம் வகுப்புக்குப் பிறகு என்ன படிக்கலாம்?",
+    "title_en": "What can I study after class 10?",
+    "body_ta": "10ஆம் வகுப்புக்குப் பிறகு 11ஆம் வகுப்பு, ஐடிஐ பயிற்சி, டிப்ளமோ பாலிடெக்னிக், மற்றும் திறன் பயிற்சி வழிகளில் தேர்வு செய்யலாம். 11–12ஆம் வகுப்பு படித்தால் கல்லூரி சேர்க்கைக்கு வாய்ப்பு அதிகம். ஐடிஐ மற்றும் டிப்ளமோ தொழில்நுட்ப வேலைகளுக்கு நேரடி வழி. உங்கள் ஆர்வம், நிதி நிலை மற்றும் வேலை இலக்கைப் பொறுத்து தேர்வு செய்யுங்கள்; அருகிலுள்ள அரசு பள்ளி அல்லது வழிகாட்டல் மையத்தில் இலவச ஆலோசனை பெறலாம்.",
+    "body_en": "After class 10 you can choose class 11–12, an ITI trade, a polytechnic diploma, or a skill course. Classes 11–12 keep college options open, while ITI and diploma routes lead to technical jobs sooner. Choose based on your interest, family finances and job goal, and ask a government school or career guidance centre for free counselling.",
+    "tags": ["10ஆம் வகுப்பு", "ஐடிஐ", "டிப்ளமோ", "பாலிடெக்னிக்", "11ஆம் வகுப்பு", "after 10th", "ITI", "diploma", "career"],
+    "source_name": "Tamil Nadu School Education Department",
+    "source_url": "https://www.tnschools.gov.in/",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "edu-after-12th",
+    "sector": "education",
+    "title_ta": "12ஆம் வகுப்புக்குப் பிறகு படிப்புத் தேர்வு",
+    "title_en": "Choosing a course after class 12",
+    "body_ta": "12ஆம் வகுப்புக்குப் பிறகு பொறியியல், மருத்துவம், கலை அறிவியல், வணிகம், ஆசிரியர் பயிற்சி, செவிலியம் மற்றும் தொழில்நுட்பப் படிப்புகள் உள்ளன. NEET, JEE, TNEA மற்றும் பல்கலைக்கழக சேர்க்கை போன்ற தேர்வுகளுக்கு முன்கூட்டியே தயாராகுங்கள். அரசு கல்லூரிகள் குறைந்த கட்டணத்தில் தரமான கல்வியை வழங்குகின்றன. ஒவ்வொரு படிப்பின் கால அளவு, கட்டணம் மற்றும் வேலை வாய்ப்பை ஒப்பிட்டுப் பார்த்து முடிவெடுங்கள்.",
+    "body_en": "After class 12 you can pursue engineering, medicine, arts and science, commerce, teacher training, nursing or technical courses. Prepare early for NEET, JEE, TNEA and university admissions. Government colleges offer quality education at low cost. Compare course duration, fees and employment prospects before deciding.",
+    "tags": ["12ஆம் வகுப்பு", "பொறியியல்", "மருத்துவம்", "NEET", "JEE", "TNEA", "after 12th", "college", "course", "படிப்பு"],
+    "source_name": "Tamil Nadu Higher Education Department",
+    "source_url": "https://www.tn.gov.in/department/9",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "edu-scholarships",
+    "sector": "education",
+    "title_ta": "மாணவர் உதவித்தொகைகள்",
+    "title_en": "Scholarships for students",
+    "body_ta": "மத்திய அரசின் தேசிய உதவித்தொகை போர்ட்டல் (NSP) மூலம் வருமான அடிப்படையிலான உதவித்தொகைகளுக்கு விண்ணப்பிக்கலாம். தமிழ்நாட்டில் e-Sevai மூலம் மாநில உதவித்தொகைகள், பட்டியல் சாதி/பழங்குடி நல உதவிகள் மற்றும் முதல் பட்டப்படிப்பு படிக்கும் மாணவிகளுக்கான சிறப்புத் திட்டங்கள் கிடைக்கின்றன. விண்ணப்பிக்க சாதி, வருமானம், இருப்பிடச் சான்று, வங்கிக் கணக்கு மற்றும் முந்தைய மதிப்பெண் சான்றிதழ் தேவை. கடைசி தேதியைத் தவறவிடாமல் பள்ளி அல்லது கல்லூரி மூலம் விண்ணப்பியுங்கள்.",
+    "body_en": "Apply for income-based scholarships through the National Scholarship Portal (NSP). Tamil Nadu also offers state scholarships, SC/ST welfare support and special schemes for women in higher education through e-Sevai. You usually need caste, income and nativity certificates, a bank account and previous mark sheets. Apply through your school or college before the deadline.",
+    "tags": ["உதவித்தொகை", "scholarship", "NSP", "e-Sevai", "கல்வி உதவி", "மாணவர்", "student", "fee"],
+    "source_name": "National Scholarship Portal",
+    "source_url": "https://scholarships.gov.in/",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "edu-education-loan",
+    "sector": "education",
+    "title_ta": "கல்விக் கடன் எப்படி பெறுவது?",
+    "title_en": "How to get an education loan",
+    "body_ta": "கல்விக் கடனை பொதுத்துறை அல்லது தனியார் வங்கியில் பெறலாம். சேர்க்கைக் கடிதம், கட்டண விவரம், மதிப்பெண் சான்றிதழ், பெற்றோரின் வருமான ஆதாரம் மற்றும் கூட்டுக் கடன் விண்ணப்பம் தேவை. அரசு உதவித்தொகைக்கு முன் விண்ணப்பியுங்கள்; அது கடன் தேவையைக் குறைக்கும். வட்டி விகிதம், விலக்கு காலம் மற்றும் முன்பணம் குறித்து வங்கியிடம் எழுத்துப்பூர்வமாகக் கேளுங்கள்.",
+    "body_en": "Education loans are available from public and private banks. You will need an admission letter, fee structure, mark sheets, proof of parental income and a co-applicant. Apply for scholarships first, as they reduce the loan you need. Ask the bank in writing about the interest rate, moratorium period and any processing fee.",
+    "tags": ["கல்விக் கடன்", "education loan", "student loan", "கடன்", "bank", "scholarship"],
+    "source_name": "Vidya Lakshmi",
+    "source_url": "https://www.vidyalakshmi.co.in/",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "edu-naan-mudhalvan",
+    "sector": "education",
+    "title_ta": "நான் முதல்வன் திறன் திட்டம்",
+    "title_en": "Naan Mudhalvan skill programme",
+    "body_ta": "நான் முதல்வன் திட்டம் மாணவர்களுக்கு தொழில்திறன், மென்திறன், போட்டித் தேர்வு பயிற்சி மற்றும் வேலைவாய்ப்பு இணைப்பை வழங்குகிறது. அரசு கல்லூரி மற்றும் பல்கலைக்கழக மாணவர்கள் தங்கள் நிறுவனம் மூலம் பதிவு செய்யலாம். பயிற்சி இலவசம்; சான்றிதழ் வேலைவாய்ப்புக்கு உதவும். பாடத்திட்டம் மற்றும் பதிவு விவரங்களுக்கு உங்கள் கல்லூரி நான் முதல்வன் ஒருங்கிணைப்பாளரை அணுகுங்கள்.",
+    "body_en": "Naan Mudhalvan offers students industry skills, soft skills, competitive-exam coaching and job linkages. Students in government colleges and universities register through their institution. Training is free and certification helps in job applications. Ask your college's Naan Mudhalvan coordinator for the current course list and registration steps.",
+    "tags": ["நான் முதல்வன்", "Naan Mudhalvan", "திறன்", "skill", "training", "பயிற்சி", "certification", "job"],
+    "source_name": "Naan Mudhalvan",
+    "source_url": "https://naanmudhalvan.tn.gov.in/",
+    "updated": "2024-06-01"
+  }
+]

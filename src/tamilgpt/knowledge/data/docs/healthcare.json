@@ -1,0 +1,62 @@
+[
+  {
+    "id": "health-govt-hospital",
+    "sector": "healthcare",
+    "title_ta": "அரசு மருத்துவமனையில் சிகிச்சை பெறுவது",
+    "title_en": "Getting treatment at a government hospital",
+    "body_ta": "அரசு மருத்துவமனைகளில் வெளிநோயாளர் பிரிவில் இலவச பரிசோதனை மற்றும் பல சிகிச்சைகள் கிடைக்கின்றன. முதலில் அருகிலுள்ள ஆரம்ப சுகாதார நிலையம் அல்லது அரசு மருத்துவமனைக்குச் செல்லுங்கள். ஆதார், ரேஷன் அட்டை மற்றும் முந்தைய மருத்துவ ஆவணங்களை எடுத்துச் செல்லுங்கள். அவசர நிலையில் 108 ஆம்புலன்ஸ் சேவையை அழையுங்கள். தேவைப்பட்டால் முதலமைச்சர் காப்பீட்டுத் திட்டத்தின் கீழ் சிகிச்சை பெறலாம்.",
+    "body_en": "Government hospitals provide free outpatient consultations and many treatments. Start at your nearest primary health centre or government hospital. Carry your Aadhaar, ration card and previous medical records. In an emergency, call 108 for an ambulance. If eligible, treatment may also be covered under the Chief Minister's health insurance scheme.",
+    "tags": ["அரசு மருத்துவமனை", "government hospital", "PHC", "108", "இலவச சிகிச்சை", "doctor", "மருத்துவம்"],
+    "source_name": "Tamil Nadu Health Department",
+    "source_url": "https://www.tn.gov.in/department/15",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "health-fever-warning",
+    "sector": "healthcare",
+    "title_ta": "காய்ச்சல்: எப்போது மருத்துவரைப் பார்க்க வேண்டும்?",
+    "title_en": "Fever: when to see a doctor",
+    "body_ta": "பெரும்பாலான காய்ச்சல் ஓய்வு, நீர்ச்சத்து மற்றும் எளிய மருந்துகளால் குறையும். ஆனால் 3 நாட்களுக்கு மேல் காய்ச்சல் தொடர்ந்தால், 102°Fக்கு மேல் அதிகரித்தால், சுவாசிப்பதில் சிரமம், மார்பு வலி, உதடு நீலமாதல், தீவிர தலைவலி, வாந்தி, வயிற்றுப்போக்கு அல்லது உணர்வு மாற்றம் ஏற்பட்டால் உடனடியாக மருத்துவரைப் பார்க்க வேண்டும். டெங்கு மற்றும் மலேரியா அறிகுறிகள் இருந்தால் இரத்தப் பரிசோதனை செய்யுங்கள். இது பொது வழிகாட்டல் மட்டுமே; தகுந்த நோயறிதலுக்கு மருத்துவரை அணுகுங்கள்.",
+    "body_en": "Most fevers settle with rest, fluids and simple medication. See a doctor urgently if fever lasts more than three days, rises above 102°F, or comes with breathing difficulty, chest pain, bluish lips, severe headache, vomiting, diarrhoea or confusion. If dengue or malaria is suspected, get a blood test. This is general guidance only; consult a doctor for a proper diagnosis.",
+    "tags": ["காய்ச்சல்", "fever", "டெங்கு", "dengue", "மலேரியா", "malaria", "அறிகுறி", "symptom", "doctor"],
+    "source_name": "National Health Portal",
+    "source_url": "https://www.nhp.gov.in/",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "health-diabetes-bp",
+    "sector": "healthcare",
+    "title_ta": "சர்க்கரை மற்றும் இரத்த அழுத்த கண்காணிப்பு",
+    "title_en": "Managing diabetes and blood pressure",
+    "body_ta": "சர்க்கரை நோயாளிகள் இரத்த சர்க்கரையை வழக்கமாகப் பரிசோதித்து, மருத்துவர் பரிந்துரைத்த மருந்தைத் தவறாமல் எடுக்க வேண்டும். உணவில் சர்க்கரை மற்றும் பதப்படுத்தப்பட்ட உணவுகளைக் குறைத்து, தினமும் நடைப்பயிற்சி செய்யுங்கள். இரத்த அழுத்தம் 140/90க்கு மேல் தொடர்ந்து இருந்தால் மருத்துவரைப் பார்க்க வேண்டும். கண், சிறுநீரகம் மற்றும் கால் பரிசோதனையை ஆண்டுதோறும் செய்யுங்கள். மருந்தை நிறுத்தவோ அளவை மாற்றவோ மருத்துவர் ஆலோசனை இல்லாமல் வேண்டாம்.",
+    "body_en": "People with diabetes should monitor blood sugar regularly and take prescribed medicines consistently. Reduce sugar and processed foods, and walk daily. If blood pressure stays above 140/90, see a doctor. Get annual eye, kidney and foot checks. Never stop or change a medicine without medical advice.",
+    "tags": ["சர்க்கரை", "diabetes", "இரத்த அழுத்தம்", "blood pressure", "BP", "மருந்து", "medicine", "சுகாதாரம்"],
+    "source_name": "National Health Portal",
+    "source_url": "https://www.nhp.gov.in/",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "health-emergency-108",
+    "sector": "healthcare",
+    "title_ta": "அவசர மருத்துவ உதவி",
+    "title_en": "Emergency medical help",
+    "body_ta": "மாரடைப்பு, பக்கவாதம், கடுமையான சுவாசப் பிரச்சினை, விபத்து அல்லது மயக்கம் ஏற்பட்டால் உடனடியாக 108 என்று அழையுங்கள். நோயாளியை அசைக்காமல், சுவாசம் தடையில்லாமல் இருப்பதைப் பார்த்து, அவசர சிகிச்சைக்கு அழைத்துச் செல்லுங்கள். மாரடைப்பு அறிகுறிகளில் நெஞ்சு வலி, இடது கை/தாடை வலி, வியர்வை மற்றும் மூச்சுத் திணறல் அடங்கும். 104 என்ற எண் பொது சுகாதார ஆலோசனைக்கு உதவும்.",
+    "body_en": "For a heart attack, stroke, severe breathing problem, accident or unconsciousness, call 108 immediately. Keep the patient still, check that the airway is clear and get emergency care as fast as possible. Heart attack signs include chest pain spreading to the left arm or jaw, sweating and breathlessness. Call 104 for general public-health advice.",
+    "tags": ["அவசரம்", "emergency", "108", "104", "ambulance", "மாரடைப்பு", "heart attack", "stroke"],
+    "source_name": "Tamil Nadu Emergency Management",
+    "source_url": "https://www.tn.gov.in/department/15",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "health-mental-first-aid",
+    "sector": "healthcare",
+    "title_ta": "மனநல அவசர நிலையில் உதவி",
+    "title_en": "Help in a mental health emergency",
+    "body_ta": "ஒருவர் தன்னைக் காயப்படுத்திக் கொள்ளும் அபாயத்தில் இருந்தால் அவரைத் தனியாக விடாதீர்கள். கூர்மையான பொருட்கள், மருந்து மற்றும் ஆபத்தான பொருட்களை அகற்றுங்கள். உடனடியாக 14416 (டெலி-மனஸ்) அல்லது 112 என்று அழையுங்கள். அருகிலுள்ள மனநல மருத்துவமனை அல்லது அவசர சிகிச்சைப் பிரிவுக்கு அழைத்துச் செல்லுங்கள். அவரது உணர்வுகளைக் கேட்டு, தீர்ப்பு சொல்லாமல் ஆதரவாக இருங்கள்.",
+    "body_en": "If someone may harm themselves, do not leave them alone. Remove sharp objects, medicines and other means of harm. Call 14416 (Tele-MANAS) or 112 immediately, and take the person to the nearest mental health hospital or emergency department. Listen without judgement and stay supportive.",
+    "tags": ["மனநலம்", "mental health", "14416", "Tele-MANAS", "crisis", "அவசரம்", "suicide prevention"],
+    "source_name": "Tele-MANAS",
+    "source_url": "https://telemanas.mohfw.gov.in/",
+    "updated": "2024-06-01"
+  }
+]

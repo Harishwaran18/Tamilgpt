@@ -1,0 +1,62 @@
+[
+  {
+    "id": "agri-soil-health-card",
+    "sector": "agriculture",
+    "title_ta": "மண் பரிசோதனை மற்றும் மண் அட்டை",
+    "title_en": "Soil testing and the Soil Health Card",
+    "body_ta": "உங்கள் நிலத்தின் மண்ணை ஆண்டுதோறும் பரிசோதித்தால் எந்த உரம் எவ்வளவு தேவை என்பதைத் தெரிந்து கொள்ளலாம். மண் மாதிரியை அருகிலுள்ள வேளாண்மை உதவி இயக்குநர் அலுவலகம் அல்லது மண் பரிசோதனை ஆய்வகத்தில் கொடுக்கலாம். மண் அட்டையில் மண்ணின் வகை, ஊட்டச்சத்து நிலை மற்றும் பரிந்துரைக்கப்பட்ட உரம் இடம்பெறும். அதிக உரம் இடுவது செலவை ஏற்றுவதோடு மண்ணையும் சேதப்படுத்தும்.",
+    "body_en": "Testing your soil every season tells you exactly which nutrients your field needs. Submit a soil sample at your block agriculture office or a soil testing laboratory; the Soil Health Card reports soil type, nutrient status and a fertiliser recommendation. Over-application wastes money and damages soil health.",
+    "tags": ["மண்", "மண் பரிசோதனை", "உரம்", "soil", "soil test", "fertiliser", "fertilizer", "soil health card"],
+    "source_name": "Tamil Nadu Agriculture Department",
+    "source_url": "https://www.tn.gov.in/department/1",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "agri-paddy-fertiliser",
+    "sector": "agriculture",
+    "title_ta": "நெல்லுக்கு உரம் இடும் அடிப்படை முறை",
+    "title_en": "Basics of fertiliser application for paddy",
+    "body_ta": "நெல்லுக்கு பொதுவாக நைட்ரஜன், பாஸ்பரஸ், பொட்டாசியம் தேவை. நடவுக்கு முன் பாஸ்பரஸ் முழுவதையும், பொட்டாசியத்தில் ஒரு பகுதியையும் அடியுரமாக இடுங்கள். நைட்ரஜனை இரண்டு அல்லது மூன்று தவணைகளாகப் பிரித்து இடுவது செடியின் வளர்ச்சிக்கு உதவும். இவை பொதுவான வழிகாட்டல் மட்டுமே; உங்கள் மண் அட்டை பரிந்துரையைப் பின்பற்றுவதே சிறந்தது.",
+    "body_en": "Paddy generally needs nitrogen, phosphorus and potassium. Apply the full phosphorus and part of the potassium as basal dressing before transplanting, then split nitrogen into two or three doses through the season. This is general guidance only — always follow your Soil Health Card recommendation and local extension advice.",
+    "tags": ["நெல்", "உரம்", "நைட்ரஜன்", "பாஸ்பரஸ்", "பொட்டாசியம்", "paddy", "rice", "fertiliser", "fertilizer", "nitrogen", "urea"],
+    "source_name": "Tamil Nadu Agricultural University",
+    "source_url": "https://tnau.ac.in/",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "agri-crop-insurance",
+    "sector": "agriculture",
+    "title_ta": "பயிர்க் காப்பீட்டுத் திட்டம் (PMFBY)",
+    "title_en": "Crop insurance under PMFBY",
+    "body_ta": "பிரதான் மந்திரி பயிர்க் காப்பீட்டுத் திட்டம் (PMFBY) இயற்கை பேரிடர், பூச்சி தாக்குதல் மற்றும் நோயால் ஏற்படும் பயிர் இழப்புக்கு காப்பீடு வழங்குகிறது. விவசாயிகள் வங்கி அல்லது கூட்டுறவு சங்கம் வழியாகவும், தகுதியான இடங்களில் காப்பீட்டு நிறுவனம் வழியாகவும் பயிர் செய்வதற்கு முன் விண்ணப்பிக்க வேண்டும். பயிர் இழப்பு ஏற்பட்டால் நேரடியாக வங்கி அல்லது காப்பீட்டு நிறுவனத்திற்கு தெரிவிக்க வேண்டும். பிரீமியம் மற்றும் கடைசி தேதி ஆண்டுதோறும் மாறும்; அருகிலுள்ள வங்கியில் உறுதிப்படுத்துங்கள்.",
+    "body_en": "The Pradhan Mantri Fasal Bima Yojana (PMFBY) insures crops against natural calamities, pests and disease. Farmers should enrol before sowing through their bank, cooperative society or the implementing insurer. Report crop loss promptly to the bank or insurer. Premium rates and cut-off dates change each season, so confirm the current details with your bank.",
+    "tags": ["பயிர் காப்பீடு", "PMFBY", "காப்பீடு", "crop insurance", "fasal bima", "insurance", "பயிர்", "இழப்பு"],
+    "source_name": "PMFBY",
+    "source_url": "https://pmfby.gov.in/",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "agri-kisan-credit-card",
+    "sector": "agriculture",
+    "title_ta": "கிசான் கடன் அட்டை (KCC)",
+    "title_en": "Kisan Credit Card (KCC)",
+    "body_ta": "கிசான் கடன் அட்டை மூலம் விவசாயிகள் பயிர் சாகுபடி, கால்நடை மற்றும் மீன்வளத் தேவைகளுக்கு குறுகிய காலக் கடன் பெறலாம். விண்ணப்பத்துடன் நில ஆவணங்கள், அடையாள ஆதாரம் மற்றும் புகைப்படம் கொடுக்க வேண்டும். சரியான நேரத்தில் திருப்பிச் செலுத்தினால் வட்டி மானியம் கிடைக்கும். வட்டி விகிதம் மற்றும் கடன் வரம்பு வங்கியைப் பொறுத்து மாறும்.",
+    "body_en": "A Kisan Credit Card lets farmers borrow for crop cultivation, livestock and fisheries needs. Apply at your bank with land records, identity proof and a photograph. Repaying on time keeps you eligible for interest subvention. Interest rates and limits vary by bank.",
+    "tags": ["கிசான் கடன் அட்டை", "KCC", "விவசாயக் கடன்", "kisan credit card", "farm loan", "crop loan", "வட்டி"],
+    "source_name": "Department of Agriculture & Farmers Welfare",
+    "source_url": "https://agriwelfare.gov.in/",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "agri-pest-management",
+    "sector": "agriculture",
+    "title_ta": "பூச்சி மற்றும் நோய் ஒருங்கிணைந்த கட்டுப்பாடு",
+    "title_en": "Integrated pest and disease management",
+    "body_ta": "பூச்சி மற்றும் நோய்களைக் கட்டுப்படுத்த ஒருங்கிணைந்த முறையைப் பயன்படுத்துங்கள்: ஆரோக்கியமான விதை, சரியான இடைவெளி, பயிர் சுழற்சி, இயற்கை எதிரிகள் மற்றும் தேவைப்படும்போது மட்டும் பரிந்துரைக்கப்பட்ட பூச்சிக்கொல்லி. பூச்சிக்கொல்லியை அளவுக்கு அதிகமாகத் தெளிப்பது செலவு, மண் மாசு மற்றும் எதிர்ப்புத் திறனை அதிகரிக்கும். பாதிப்பைப் புகைப்படம் எடுத்து அருகிலுள்ள வேளாண் அலுவலரிடம் காட்டி ஆலோசனை பெறுங்கள்.",
+    "body_en": "Use integrated pest management: healthy seed, correct spacing, crop rotation, natural predators, and recommended pesticide only when needed. Over-spraying raises costs, pollutes soil and breeds resistance. Photograph the affected plants and ask your local agriculture officer for a diagnosis before spraying.",
+    "tags": ["பூச்சி", "நோய்", "பூச்சிக்கொல்லி", "pest", "disease", "pesticide", "IPM", "பயிர் பாதுகாப்பு"],
+    "source_name": "Tamil Nadu Agricultural University",
+    "source_url": "https://tnau.ac.in/",
+    "updated": "2024-06-01"
+  }
+]

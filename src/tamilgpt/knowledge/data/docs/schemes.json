@@ -1,0 +1,62 @@
+[
+  {
+    "id": "scheme-find",
+    "sector": "schemes",
+    "title_ta": "உங்களுக்கு உரிய அரசு திட்டங்களை எப்படி கண்டுபிடிப்பது?",
+    "title_en": "How to find government schemes you qualify for",
+    "body_ta": "முதலில் உங்கள் வயது, வருமானம், சாதி, பாலினம், தொழில் மற்றும் இருப்பிடத்தைத் தெளிவாகப் பட்டியலிடுங்கள். பிறகு e-Sevai இணையதளம், அருகிலுள்ள e-Sevai மையம் அல்லது சம்பந்தப்பட்ட துறை அலுவலகத்தில் தகுதியான திட்டங்களைச் சரிபார்க்கவும். ஒவ்வொரு திட்டத்திற்கும் தேவையான ஆவணங்கள் வேறுபடும். விண்ணப்பத்தின் நகலைச் சேமித்து, விண்ணப்ப எண்ணைப் பதிவு செய்யுங்கள்.",
+    "body_en": "First list your age, income, community, gender, occupation and residence clearly. Then check eligible schemes on the e-Sevai portal, at a nearby e-Sevai centre, or with the concerned department. Document requirements differ by scheme. Keep a copy of every application and note the application number so you can track its status.",
+    "tags": ["அரசு திட்டம்", "scheme", "e-Sevai", "தகுதி", "eligibility", "விண்ணப்பம்", "welfare", "திட்டங்கள்"],
+    "source_name": "Tamil Nadu e-Sevai",
+    "source_url": "https://www.tnesevai.tn.gov.in/",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "scheme-ration-card",
+    "sector": "schemes",
+    "title_ta": "ரேஷன் அட்டை விண்ணப்பம்",
+    "title_en": "Applying for a ration card",
+    "body_ta": "புதிய ரேஷன் அட்டை, பெயர் சேர்த்தல், நீக்கம் அல்லது முகவரி மாற்றத்திற்கு வட்டாட்சியர் அலுவலகம் அல்லது e-Sevai மையத்தில் விண்ணப்பிக்கலாம். குடும்பத் தலைவரின் ஆதார், முகவரி ஆதாரம், குடும்ப உறுப்பினர்களின் ஆதார் மற்றும் புகைப்படம் தேவை. விண்ணப்பத்தைச் சரிபார்த்த பிறகு அட்டை வழங்கப்படும். தகுதி வகை (முன்னுரிமை/பொது) வருமானம் மற்றும் நிலைமையைப் பொறுத்தது.",
+    "body_en": "Apply for a new ration card, addition, deletion or address change at the taluk supply office or an e-Sevai centre. You need the head of household's Aadhaar, address proof, and Aadhaar and photographs of family members. The card is issued after verification. The category (priority or general) depends on income and household circumstances.",
+    "tags": ["ரேஷன் அட்டை", "ration card", "PDS", "உணவு", "e-Sevai", "விண்ணப்பம்", "குடும்ப அட்டை"],
+    "source_name": "Tamil Nadu Civil Supplies",
+    "source_url": "https://www.tnpds.gov.in/",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "scheme-certificates",
+    "sector": "schemes",
+    "title_ta": "சாதி, வருமானம் மற்றும் இருப்பிடச் சான்றிதழ்கள்",
+    "title_en": "Community, income and nativity certificates",
+    "body_ta": "சாதி, வருமானம் மற்றும் இருப்பிடச் சான்றிதழ்களை e-Sevai மையம் அல்லது வட்டாட்சியர் அலுவலகத்தில் விண்ணப்பிக்கலாம். ஆதார், ரேஷன் அட்டை, பள்ளி/கல்லூரி சான்றிதழ் மற்றும் தேவைப்பட்டால் தந்தையின் சாதி சான்று தேவை. விண்ணப்பித்த சில நாட்களில் சரிபார்ப்புக்குப் பிறகு சான்றிதழ் கிடைக்கும். பள்ளி சேர்க்கை, உதவித்தொகை மற்றும் அரசு வேலைக்கு இவை அவசியம்.",
+    "body_en": "Apply for community, income and nativity certificates at an e-Sevai centre or the taluk office. Carry your Aadhaar, ration card, school or college records and, where required, a parent's community certificate. The certificate is issued after verification within a few days. These documents are essential for admissions, scholarships and government jobs.",
+    "tags": ["சாதி சான்றிதழ்", "வருமானச் சான்று", "இருப்பிடச் சான்று", "community certificate", "income certificate", "nativity", "e-Sevai"],
+    "source_name": "Tamil Nadu e-Sevai",
+    "source_url": "https://www.tnesevai.tn.gov.in/",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "scheme-aadhaar-update",
+    "sector": "schemes",
+    "title_ta": "ஆதார் தகவல் புதுப்பிப்பு",
+    "title_en": "Updating Aadhaar details",
+    "body_ta": "பெயர், முகவரி, தொலைபேசி எண் அல்லது பிற தகவல்களை மாற்ற அருகிலுள்ள ஆதார் சேவை கேந்திரா அல்லது அஞ்சல் அலுவலகத்திற்குச் செல்லுங்கள். அசல் அடையாள ஆவணம் மற்றும் முகவரி ஆதாரம் கொண்டு செல்லுங்கள். பயோமெட்ரிக் புதுப்பிப்புக்கு நேரில் செல்ல வேண்டும். UIDAI இணையதளத்தில் மையங்களைத் தேடலாம். ஆதார் எண்ணை யாருக்கும் தேவையின்றி பகிர வேண்டாம்.",
+    "body_en": "To change your name, address, mobile number or other details, visit an Aadhaar Seva Kendra or participating post office. Carry original identity and address proof; biometric updates require an in-person visit. Find centres on the UIDAI website. Never share your Aadhaar number or OTP unless there is a clear, legitimate need.",
+    "tags": ["ஆதார்", "Aadhaar", "UIDAI", "update", "முகவரி", "address", "புதுப்பிப்பு"],
+    "source_name": "UIDAI",
+    "source_url": "https://uidai.gov.in/",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "scheme-cmchis",
+    "sector": "schemes",
+    "title_ta": "முதலமைச்சர் விரிவான மருத்துவக் காப்பீட்டுத் திட்டம்",
+    "title_en": "Chief Minister's Comprehensive Health Insurance Scheme",
+    "body_ta": "முதலமைச்சர் விரிவான மருத்துவக் காப்பீட்டுத் திட்டம் (CMCHIS) தகுதியான குடும்பங்களுக்கு ஆண்டுக்கு ₹5 லட்சம் வரை சிகிச்சை செலவை ஈடுசெய்கிறது. அரசு மருத்துவமனைகள் மற்றும் பட்டியலிடப்பட்ட தனியார் மருத்துவமனைகளில் சுமார் 1,000க்கும் மேற்பட்ட சிகிச்சைகள் கிடைக்கும். ரேஷன் அட்டை மற்றும் ஆதார் மூலம் தகுதி சரிபார்க்கலாம். சிகிச்சைக்கு முன் திட்டத்தின் பட்டியலில் அந்த மருத்துவமனை உள்ளதா என்பதை உறுதிப்படுத்துங்கள்.",
+    "body_en": "The Chief Minister's Comprehensive Health Insurance Scheme (CMCHIS) covers treatment costs up to ₹5 lakh a year for eligible families. Around 1,000 procedures are available at government hospitals and empanelled private hospitals. Eligibility is verified using the ration card and Aadhaar. Before treatment, confirm that the hospital is empanelled for the procedure under the scheme.",
+    "tags": ["CMCHIS", "முதலமைச்சர் காப்பீடு", "health insurance", "₹5 லட்சம்", "மருத்துவம்", "hospital", "scheme"],
+    "source_name": "CMCHIS",
+    "source_url": "https://www.cmchistn.com/",
+    "updated": "2024-06-01"
+  }
+]

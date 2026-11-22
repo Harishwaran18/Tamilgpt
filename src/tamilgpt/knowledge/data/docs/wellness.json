@@ -1,0 +1,62 @@
+[
+  {
+    "id": "wellness-stress",
+    "sector": "wellness",
+    "title_ta": "மன அழுத்தத்தைக் குறைக்கும் எளிய பழக்கங்கள்",
+    "title_en": "Simple habits to reduce stress",
+    "body_ta": "மன அழுத்தம் வரும்போது மூச்சை மெதுவாக எடுத்து விடுங்கள்: 4 வினாடி உள்ளிழுத்து, 6 வினாடி வெளிவிடுங்கள், ஐந்து நிமிடம் தொடர்ந்து செய்யுங்கள். தினமும் 20–30 நிமிடம் நடப்பது, போதுமான தூக்கம், உணவு மற்றும் நம்பகமான நபரிடம் பேசுவது உதவும். செய்தி மற்றும் சமூக ஊடகங்களை அளவாகப் பயன்படுத்துங்கள். அழுத்தம் தொடர்ந்து சில வாரங்கள் இருந்தால் மருத்துவர் அல்லது மனநல ஆலோசகருடன் பேசுங்கள்.",
+    "body_en": "When stress rises, breathe slowly: inhale for four seconds, exhale for six, and continue for five minutes. A daily 20–30 minute walk, adequate sleep, regular meals and talking to someone you trust all help. Limit news and social media. If stress persists for several weeks, speak to a doctor or counsellor.",
+    "tags": ["மன அழுத்தம்", "stress", "கவலை", "anxiety", "breathing", "மூச்சு", "wellness", "மனநலம்"],
+    "source_name": "Tele-MANAS",
+    "source_url": "https://telemanas.mohfw.gov.in/",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "wellness-sleep",
+    "sector": "wellness",
+    "title_ta": "நல்ல தூக்கத்திற்கான வழிகள்",
+    "title_en": "Tips for better sleep",
+    "body_ta": "தினமும் ஒரே நேரத்தில் படுக்கைக்குச் சென்று ஒரே நேரத்தில் எழுந்திருங்கள். படுக்கைக்கு முன் ஒரு மணி நேரம் மொபைல் பயன்படுத்துவதைக் குறையுங்கள். காபி, தேநீர் மற்றும் ஆற்றல் பானங்களை மாலைக்குப் பிறகு தவிர்க்கவும். படுக்கையறையை இருட்டாகவும் அமைதியாகவும் வைத்திருங்கள். தூக்கம் வரவில்லை என்றால் 20 நிமிடத்திற்கு மேல் படுக்கையில் புரண்டு கொண்டிருக்க வேண்டாம்; எழுந்து அமைதியாக உட்கார்ந்து, தூக்கம் வந்ததும் திரும்பச் செல்லுங்கள்.",
+    "body_en": "Go to bed and wake up at the same time every day. Avoid screens for an hour before bed, and skip coffee, tea and energy drinks in the evening. Keep the bedroom dark and quiet. If you cannot sleep after 20 minutes, get up, sit quietly and return to bed only when sleepy.",
+    "tags": ["தூக்கம்", "sleep", "தூக்கமின்மை", "insomnia", "wellness", "மனநலம்", "bedtime"],
+    "source_name": "National Health Portal",
+    "source_url": "https://www.nhp.gov.in/",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "wellness-anxiety",
+    "sector": "wellness",
+    "title_ta": "பதற்றம் வரும்போது என்ன செய்யலாம்?",
+    "title_en": "What to do during anxiety or a panic attack",
+    "body_ta": "பதற்றம் அல்லது பேனிக் அட்டாக் வரும்போது இது ஆபத்தானது அல்ல என்று உங்களுக்கு நினைவூட்டுங்கள்; சில நிமிடங்களில் குறையும். அருகில் உள்ள ஐந்து பொருட்களைப் பார்த்து, நான்கு ஒலிகளைக் கேட்டு, மூன்று பொருட்களைத் தொட்டு உணர்வைத் திருப்புங்கள். மெதுவாக மூச்சு விடுங்கள். தனியாக இருக்காமல் நம்பகமான நபரை அழையுங்கள். பதற்றம் அடிக்கடி வந்தால் மனநல ஆலோசகர் உதவியை நாடுங்கள்; இது பலருக்கும் ஏற்படும் பொதுவான பிரச்சினை.",
+    "body_en": "During anxiety or a panic attack, remind yourself that it is not dangerous and usually passes within minutes. Use the 5-4-3 technique: notice five things you see, four sounds you hear and three objects you can touch. Breathe slowly and call someone you trust so you are not alone. If anxiety keeps returning, seek help from a counsellor; it is a common and treatable problem.",
+    "tags": ["பதற்றம்", "anxiety", "panic attack", "பயம்", "grounding", "மனநலம்", "wellness"],
+    "source_name": "Tele-MANAS",
+    "source_url": "https://telemanas.mohfw.gov.in/",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "wellness-seek-help",
+    "sector": "wellness",
+    "title_ta": "எப்போது மனநல உதவியை நாட வேண்டும்?",
+    "title_en": "When to seek mental health support",
+    "body_ta": "இரண்டு வாரங்களுக்கு மேல் தொடர்ந்து சோகம், ஆர்வமின்மை, தூக்கமின்மை, பசியின்மை அல்லது அன்றாட வேலைகளைச் செய்ய முடியாத நிலை இருந்தால் உதவியை நாடுங்கள். தன்னைக் காயப்படுத்தும் எண்ணங்கள் வந்தால் உடனடியாக 14416 அல்லது 112 என்று அழையுங்கள். மனநல ஆலோசனை பெறுவது பலவீனம் அல்ல; மருத்துவ சிகிச்சையின் ஒரு பகுதி. அரசு மருத்துவமனைகளில் மனநல பிரிவு மற்றும் இலவச ஆலோசனை சேவைகள் உள்ளன.",
+    "body_en": "Seek support if sadness, loss of interest, poor sleep or appetite, or difficulty with daily tasks lasts more than two weeks. If thoughts of self-harm appear, call 14416 or 112 immediately. Asking for mental health support is not a weakness; it is part of good medical care. Government hospitals offer mental health departments and free counselling.",
+    "tags": ["மனநல உதவி", "mental health", "counselling", "14416", "சோகம்", "depression", "ஆலோசனை"],
+    "source_name": "Tele-MANAS",
+    "source_url": "https://telemanas.mohfw.gov.in/",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "wellness-crisis-helplines",
+    "sector": "wellness",
+    "title_ta": "மனநல அவசர உதவி எண்கள்",
+    "title_en": "Mental health crisis helplines",
+    "body_ta": "உங்களுக்கோ வேறொருவருக்கோ தன்னைக் காயப்படுத்தும் எண்ணம் இருந்தால் உடனடியாக உதவி பெறுங்கள். டெலி-மனஸ்: 14416 அல்லது 1-800-891-4416 (24 மணி நேரம், பல மொழிகளில்). அவசர எண்: 112. பெண்களுக்கு 181, குழந்தைகளுக்கு 1098. உங்களைத் தனியாக விடாதீர்கள்; நம்பகமான நபரை அழையுங்கள். இந்த எண்கள் இலவசம்.",
+    "body_en": "If you or someone else is thinking of self-harm, get help now. Tele-MANAS: 14416 or 1-800-891-4416, available 24 hours in multiple languages. Emergency: 112. Women's helpline: 181. Child helpline: 1098. Do not stay alone; call someone you trust. These helplines are free.",
+    "tags": ["உதவி எண்", "helpline", "14416", "Tele-MANAS", "112", "181", "1098", "crisis", "மனநலம்"],
+    "source_name": "Tele-MANAS",
+    "source_url": "https://telemanas.mohfw.gov.in/",
+    "updated": "2024-06-01"
+  }
+]

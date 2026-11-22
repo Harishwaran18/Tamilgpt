@@ -1,0 +1,62 @@
+[
+  {
+    "id": "emp-job-search",
+    "sector": "employment",
+    "title_ta": "வேலை தேடுவதற்கான சரியான வழிகள்",
+    "title_en": "Effective ways to search for a job",
+    "body_ta": "அரசு வேலைவாய்ப்பு அலுவலகத்தில் பதிவு செய்வது, TNPSC மற்றும் TRB அறிவிப்புகளைப் பின்தொடர்வது, தனியார் வேலைத் தளங்களில் சுயவிவரம் உருவாக்குவது என மூன்று வழிகளையும் சேர்த்துப் பயன்படுத்துங்கள். உங்கள் திறனுக்கு ஏற்ற பதவிகளுக்கு மட்டும் விண்ணப்பியுங்கள். ஒவ்வொரு விண்ணப்பத்திற்கும் தனித்தனி கவர் லெட்டர் எழுதுங்கள். நண்பர்கள், முன்னாள் ஆசிரியர்கள் மற்றும் தொழில் வலைப்பிணைப்பு மூலம் பரிந்துரை பெறுங்கள்.",
+    "body_en": "Use three channels together: register with the government employment exchange, track TNPSC and TRB notifications, and build profiles on reputable private job portals. Apply only for roles that match your skills, and tailor a short cover letter for each application. Referrals through friends, former teachers and professional networks often work better than cold applications.",
+    "tags": ["வேலை", "வேலைவாய்ப்பு", "job search", "employment exchange", "TNPSC", "job portal", "வேலை தேடல்", "resume"],
+    "source_name": "Tamil Nadu Employment and Training Department",
+    "source_url": "https://www.tn.gov.in/department/25",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "emp-tnpsc-preparation",
+    "sector": "employment",
+    "title_ta": "TNPSC தேர்வுக்கு எப்படி தயாராகலாம்?",
+    "title_en": "How to prepare for TNPSC",
+    "body_ta": "TNPSC அறிவிப்பைப் படித்து பாடத்திட்டத்தை முழுமையாகப் புரிந்து கொள்ளுங்கள். தமிழ், பொது அறிவு, அறிவியல், கணிதம் மற்றும் தமிழ்நாடு சிறப்பு தலைப்புகளுக்கு தினமும் நேரம் ஒதுக்குங்கள். கடந்த ஆண்டு வினாத்தாள்களை நேரக் கட்டுப்பாட்டுடன் எழுதிப் பயிற்சி செய்யுங்கள். வாராந்திர தேர்வுகள் எழுதி பலவீனமான பகுதிகளைக் கண்டறியுங்கள். அரசு நூலகம் மற்றும் இலவச ஆன்லைன் வகுப்புகளைப் பயன்படுத்துங்கள்.",
+    "body_en": "Read the TNPSC notification and map the full syllabus before you start. Give daily time to Tamil, general knowledge, science, mathematics and Tamil Nadu-specific topics. Practise previous-year papers under timed conditions and take weekly mock tests to find weak areas. Use government libraries and free online classes; consistency matters more than long study hours.",
+    "tags": ["TNPSC", "தேர்வு", "exam", "preparation", "government job", "அரசு வேலை", "syllabus", "mock test"],
+    "source_name": "TNPSC",
+    "source_url": "https://www.tnpsc.gov.in/",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "emp-interview",
+    "sector": "employment",
+    "title_ta": "நேர்காணலுக்கு தயாராகுவது எப்படி?",
+    "title_en": "Preparing for a job interview",
+    "body_ta": "நேர்காணலுக்கு முன் நிறுவனம் மற்றும் பதவி பற்றி ஆராயுங்கள். உங்கள் சுயவிவரத்தில் உள்ள ஒவ்வொரு விவரத்தையும் விளக்கத் தயாராக இருங்கள். 'உங்களைப் பற்றி சொல்லுங்கள்', 'ஏன் இந்த வேலை?' போன்ற பொதுவான கேள்விகளுக்கு பயிற்சி செய்யுங்கள். சுத்தமான உடை அணிந்து, 10 நிமிடம் முன்பே செல்லுங்கள். பதில்களை மனப்பாடம் செய்யாமல் உண்மையான அனுபவங்களுடன் பேசுங்கள்.",
+    "body_en": "Research the company and the role before the interview. Be ready to explain every line of your CV. Practise common questions such as 'tell me about yourself' and 'why this job'. Dress neatly, arrive ten minutes early, and speak from real experience instead of reciting memorised answers. Prepare two or three questions to ask the interviewer.",
+    "tags": ["நேர்காணல்", "interview", "job", "resume", "CV", "வேலை", "preparation"],
+    "source_name": "Naan Mudhalvan",
+    "source_url": "https://naanmudhalvan.tn.gov.in/",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "emp-skill-training",
+    "sector": "employment",
+    "title_ta": "இலவச திறன் பயிற்சி திட்டங்கள்",
+    "title_en": "Free skill training programmes",
+    "body_ta": "பிரதான் மந்திரி கௌசல் விகாஸ் யோஜனா (PMKVY), தமிழ்நாடு திறன் மேம்பாட்டுக் கழகம் மற்றும் நான் முதல்வன் திட்டங்கள் இலவச திறன் பயிற்சி வழங்குகின்றன. மின்சாரம், வெல்டிங், தையல், கணினி, சமையல், ஓட்டுநர் மற்றும் சுகாதாரப் பணிகள் போன்ற பாடங்கள் கிடைக்கின்றன. பயிற்சிக்குப் பிறகு சான்றிதழ் மற்றும் வேலைவாய்ப்பு உதவி கிடைக்கலாம். அருகிலுள்ள அரசு திறன் பயிற்சி மையத்தில் பதிவு செய்யுங்கள்.",
+    "body_en": "PMKVY, the Tamil Nadu Skill Development Corporation and Naan Mudhalvan offer free skill training. Courses cover electrical work, welding, tailoring, computing, cooking, driving and healthcare support. Training often ends with a certificate and placement assistance. Register at your nearest government skill training centre and check the course schedule.",
+    "tags": ["திறன் பயிற்சி", "skill training", "PMKVY", "TNSDC", "நான் முதல்வன்", "certificate", "placement", "பயிற்சி"],
+    "source_name": "Tamil Nadu Skill Development Corporation",
+    "source_url": "https://www.tnsdc.in/",
+    "updated": "2024-06-01"
+  },
+  {
+    "id": "emp-resume",
+    "sector": "employment",
+    "title_ta": "ஒரு நல்ல சுயவிவரம் (Resume) எழுதுவது",
+    "title_en": "Writing a strong resume",
+    "body_ta": "ஒரு பக்க சுயவிவரம் போதும். மேலே பெயர், தொலைபேசி எண், மின்னஞ்சல் மற்றும் இருப்பிடம் எழுதுங்கள். அதன் பிறகு கல்வி, திறன்கள், அனுபவம் மற்றும் சாதனைகள் என்ற வரிசையில் எழுதுங்கள். 'நல்ல வேலை செய்தேன்' என்பதற்குப் பதிலாக 'மாதம் 20 வாடிக்கையாளர்களைக் கையாண்டேன்' போன்ற அளவீடுகளைக் குறிப்பிடுங்கள். எழுத்துப்பிழைகளைச் சரிபார்த்து PDF வடிவில் அனுப்புங்கள்.",
+    "body_en": "One page is enough. Put your name, phone number, email and location at the top, followed by education, skills, experience and achievements. Replace vague claims like 'hard worker' with measurable results such as 'handled 20 customers a month'. Proofread carefully and send a PDF unless the employer asks for another format.",
+    "tags": ["சுயவிவரம்", "resume", "CV", "வேலை", "job application", "skills"],
+    "source_name": "Naan Mudhalvan",
+    "source_url": "https://naanmudhalvan.tn.gov.in/",
+    "updated": "2024-06-01"
+  }
+]
