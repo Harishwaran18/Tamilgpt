@@ -16,6 +16,7 @@ upgrade, never a requirement.
 [![FastAPI](https://img.shields.io/badge/API-FastAPI-009688)](https://fastapi.tiangolo.com/)
 [![Tests](https://img.shields.io/badge/tests-77%20passing-brightgreen)](#quality-gates)
 [![Coverage](https://img.shields.io/badge/coverage-91.64%25-brightgreen)](#quality-gates)
+[![CI](https://github.com/Harishwaran18/Tamilgpt/actions/workflows/ci.yml/badge.svg)](https://github.com/Harishwaran18/Tamilgpt/actions/workflows/ci.yml)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 ---
